@@ -1,7 +1,11 @@
 {
     "files.associations": {
         "*.ejs": "html",
+<<<<<<< HEAD
         "iostream": "cpp",
         "vector": "cpp"
+=======
+        "iostream": "cpp"
+>>>>>>> origin/master
     }
 }
