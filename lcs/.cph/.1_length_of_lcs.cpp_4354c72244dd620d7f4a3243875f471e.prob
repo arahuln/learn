@@ -1,0 +1,1 @@
+{"name":"Local: 1_length_of_lcs","url":"c:\\Users\\eager\\Desktop\\DP\\lcs\\1_length_of_lcs.cpp","tests":[{"id":1723978253488,"input":"aab\nbaa","output":"2"},{"id":1723978271108,"input":"aaaa\naaaa","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\eager\\Desktop\\DP\\lcs\\1_length_of_lcs.cpp","group":"local","local":true}

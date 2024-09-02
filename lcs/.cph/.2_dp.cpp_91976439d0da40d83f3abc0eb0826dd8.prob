@@ -1,0 +1,1 @@
+{"name":"Local: 2_dp","url":"c:\\Users\\eager\\Desktop\\DP\\lcs\\2_dp.cpp","tests":[{"id":1723981092196,"input":"baaa\naaa","output":"3"},{"id":1723981100245,"input":"abcd\ndcba","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\eager\\Desktop\\DP\\lcs\\2_dp.cpp","group":"local","local":true}
